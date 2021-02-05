@@ -1,0 +1,16 @@
+{
+  "name": "vercel-eleventy-404",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "eleventy --serve",
+    "build": "eleventy"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@11ty/eleventy": "^0.11.1"
+  }
+}
